@@ -16,7 +16,7 @@ independent closest-distance calculation.
 
 Relevant to autonomy simulation, trajectory validation, and spatial indexing—the
 engineering themes behind work at organizations such as Waymo. No affiliation or
-use of proprietary data is implied. Built with AI assistance.
+use of proprietary data is implied.
 
 ## Run
 

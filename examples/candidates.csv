@@ -1,0 +1,6 @@
+# Candidate 1 crosses; candidate 2 waits before moving.
+1,1,0,-8,0
+1,1,4,8,0
+2,1,0,-8,0
+2,1,2,-8,0
+2,1,4,-4,0

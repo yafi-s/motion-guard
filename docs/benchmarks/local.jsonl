@@ -1,0 +1,2 @@
+{"mode":"all-pairs","obstacles":10000,"queries":500,"build_ms":22.3526,"query_ms":52.8548,"narrow_checks":10000000,"contact_pairs":566}
+{"mode":"bvh","obstacles":10000,"queries":500,"build_ms":22.3526,"query_ms":0.421667,"narrow_checks":2320,"contact_pairs":566}

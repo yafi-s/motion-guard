@@ -73,3 +73,10 @@ provides context for why scenario evaluation matters; this project does not
 implement or reproduce that methodology.
 
 MIT licensed. Companion mobility project: [fleet-match](https://github.com/yafi-s/fleet-match).
+
+## Public trajectory evaluation
+
+A fixed 12-scenario Argoverse 2 subset now exercises independent closest-approach
+parity, sampled baselines, uncertainty envelopes, failure replays, and dense stress
+cases. [Design, commands, measured outcomes, and limits](docs/REAL_TRAJECTORIES.md).
+[Dataset and derived-artifact terms](DATA_LICENSE.md).

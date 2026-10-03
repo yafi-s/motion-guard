@@ -1,0 +1,3 @@
+
+# Preserve byte-hashed recorded evidence across operating systems.
+docs/evidence/argoverse/** -text whitespace=cr-at-eol

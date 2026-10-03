@@ -2,12 +2,14 @@ CXX ?= c++
 CXXFLAGS ?= -O3 -std=c++20 -Wall -Wextra -Wpedantic -Werror
 CPPFLAGS := -Iinclude
 .PHONY: all test sanitize clean
-all: build/experiment
+all: build/experiment build/scenario_eval
 build:
 	mkdir -p build
 build/experiment: src/experiment.cpp include/motion_guard/geometry.hpp include/motion_guard/world.hpp | build
 	$(CXX) $(CPPFLAGS) $(CXXFLAGS) $< -o $@
 build/test: tests/test.cpp include/motion_guard/geometry.hpp include/motion_guard/world.hpp | build
+	$(CXX) $(CPPFLAGS) $(CXXFLAGS) $< -o $@
+build/scenario_eval: src/scenario_eval.cpp include/motion_guard/geometry.hpp include/motion_guard/world.hpp | build
 	$(CXX) $(CPPFLAGS) $(CXXFLAGS) $< -o $@
 test: build/test build/experiment
 	./build/test

@@ -1,0 +1,159 @@
+{
+  "sources": [
+    {
+      "split": "train",
+      "key": "datasets/av2/motion-forecasting/train/0000b0f9-99f9-4a1f-a231-5be9e4c523f7/scenario_0000b0f9-99f9-4a1f-a231-5be9e4c523f7.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/train/0000b0f9-99f9-4a1f-a231-5be9e4c523f7/scenario_0000b0f9-99f9-4a1f-a231-5be9e4c523f7.parquet",
+      "sha256": "96c95b36565817df690605ba65b57b46b8ac2611adbe2ded68a2e50307ac7e6f",
+      "bytes": 128102,
+      "last_modified": "2023-03-24T20:40:14.000Z"
+    },
+    {
+      "split": "train",
+      "key": "datasets/av2/motion-forecasting/train/0000b6ab-e100-4f6b-aee8-b520b57c0530/scenario_0000b6ab-e100-4f6b-aee8-b520b57c0530.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/train/0000b6ab-e100-4f6b-aee8-b520b57c0530/scenario_0000b6ab-e100-4f6b-aee8-b520b57c0530.parquet",
+      "sha256": "fbc140314e827ba1ecdbd54b7253d054cbe0a85e14daffcd0971594129837c91",
+      "bytes": 137454,
+      "last_modified": "2023-03-24T20:40:14.000Z"
+    },
+    {
+      "split": "train",
+      "key": "datasets/av2/motion-forecasting/train/0001b567-b7ac-4a91-b4fe-6132e4b81884/scenario_0001b567-b7ac-4a91-b4fe-6132e4b81884.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/train/0001b567-b7ac-4a91-b4fe-6132e4b81884/scenario_0001b567-b7ac-4a91-b4fe-6132e4b81884.parquet",
+      "sha256": "2c83bead1f3e0fae5eae56b68203282c23629f076cc8a03b1503fe9f4fb50bac",
+      "bytes": 230373,
+      "last_modified": "2023-03-24T20:40:14.000Z"
+    },
+    {
+      "split": "train",
+      "key": "datasets/av2/motion-forecasting/train/0001f576-0552-49c9-9ce2-8c47411a088e/scenario_0001f576-0552-49c9-9ce2-8c47411a088e.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/train/0001f576-0552-49c9-9ce2-8c47411a088e/scenario_0001f576-0552-49c9-9ce2-8c47411a088e.parquet",
+      "sha256": "275d017f3e5fa47fe53f5a357a00dbede34c46ba91bcf41fc8310b66d85ddba4",
+      "bytes": 172958,
+      "last_modified": "2023-03-24T20:40:14.000Z"
+    },
+    {
+      "split": "train",
+      "key": "datasets/av2/motion-forecasting/train/0001fe2b-a3c8-4cdf-a712-6b65a17ca316/scenario_0001fe2b-a3c8-4cdf-a712-6b65a17ca316.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/train/0001fe2b-a3c8-4cdf-a712-6b65a17ca316/scenario_0001fe2b-a3c8-4cdf-a712-6b65a17ca316.parquet",
+      "sha256": "7cec487953afba497ed3ddbf6a75fd908062e1746dd868e5054305837bff074d",
+      "bytes": 187813,
+      "last_modified": "2023-03-24T20:40:14.000Z"
+    },
+    {
+      "split": "train",
+      "key": "datasets/av2/motion-forecasting/train/0002cd4c-d011-4f89-84e4-5a042007f034/scenario_0002cd4c-d011-4f89-84e4-5a042007f034.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/train/0002cd4c-d011-4f89-84e4-5a042007f034/scenario_0002cd4c-d011-4f89-84e4-5a042007f034.parquet",
+      "sha256": "b33da52779e63a240c84872bcdb12d63ba2203b18922dfa3ab91ffd456668176",
+      "bytes": 132059,
+      "last_modified": "2023-03-24T20:40:14.000Z"
+    },
+    {
+      "split": "val",
+      "key": "datasets/av2/motion-forecasting/val/00010486-9a07-48ae-b493-cf4545855937/scenario_00010486-9a07-48ae-b493-cf4545855937.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/val/00010486-9a07-48ae-b493-cf4545855937/scenario_00010486-9a07-48ae-b493-cf4545855937.parquet",
+      "sha256": "adffa33264b509a781a0e18dc795fd78e1076feab5a085b4e2f3eb1d219f5c0f",
+      "bytes": 158651,
+      "last_modified": "2023-03-24T20:46:16.000Z"
+    },
+    {
+      "split": "val",
+      "key": "datasets/av2/motion-forecasting/val/00062a32-8d6d-4449-9948-6fedac67bfcd/scenario_00062a32-8d6d-4449-9948-6fedac67bfcd.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/val/00062a32-8d6d-4449-9948-6fedac67bfcd/scenario_00062a32-8d6d-4449-9948-6fedac67bfcd.parquet",
+      "sha256": "5ebf2eaa4dddda93e8ad02ddef94057828c3c28203003af4e529a082c562d179",
+      "bytes": 267008,
+      "last_modified": "2023-03-24T20:46:16.000Z"
+    },
+    {
+      "split": "val",
+      "key": "datasets/av2/motion-forecasting/val/0006ca28-fcbb-4ae2-9d9e-951fa3b41c1c/scenario_0006ca28-fcbb-4ae2-9d9e-951fa3b41c1c.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/val/0006ca28-fcbb-4ae2-9d9e-951fa3b41c1c/scenario_0006ca28-fcbb-4ae2-9d9e-951fa3b41c1c.parquet",
+      "sha256": "649420db393c5a20d29e3956e4442ad36f737e5b4ec5f90715228d2a17649109",
+      "bytes": 66963,
+      "last_modified": "2023-03-24T20:46:16.000Z"
+    },
+    {
+      "split": "val",
+      "key": "datasets/av2/motion-forecasting/val/0007df76-c9a2-47aa-83bf-3b2b414109c9/scenario_0007df76-c9a2-47aa-83bf-3b2b414109c9.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/val/0007df76-c9a2-47aa-83bf-3b2b414109c9/scenario_0007df76-c9a2-47aa-83bf-3b2b414109c9.parquet",
+      "sha256": "85eebac72328c4d9d44b555230630aa7efa7153e79feae2717d9a3b3183f1845",
+      "bytes": 272290,
+      "last_modified": "2023-03-24T20:46:16.000Z"
+    },
+    {
+      "split": "val",
+      "key": "datasets/av2/motion-forecasting/val/0015197d-b916-43b6-bcaa-8a7d90d7b87d/scenario_0015197d-b916-43b6-bcaa-8a7d90d7b87d.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/val/0015197d-b916-43b6-bcaa-8a7d90d7b87d/scenario_0015197d-b916-43b6-bcaa-8a7d90d7b87d.parquet",
+      "sha256": "be9347143d0918a1a798b458fd94b92ca07b114b6e9f7f9afb7b0ca0e21da707",
+      "bytes": 169570,
+      "last_modified": "2023-03-24T20:46:16.000Z"
+    },
+    {
+      "split": "val",
+      "key": "datasets/av2/motion-forecasting/val/00170a57-eb8a-4947-8b7d-7b12af7af2db/scenario_00170a57-eb8a-4947-8b7d-7b12af7af2db.parquet",
+      "url": "https://argoverse.s3.amazonaws.com/datasets/av2/motion-forecasting/val/00170a57-eb8a-4947-8b7d-7b12af7af2db/scenario_00170a57-eb8a-4947-8b7d-7b12af7af2db.parquet",
+      "sha256": "e2c85e80270b8958a0835e12ac6ea272fa5b1fe0e011e9abdd155a8545b2ad8b",
+      "bytes": 212463,
+      "last_modified": "2023-03-24T20:46:16.000Z"
+    }
+  ],
+  "selection": "Fixed first-six parquet list from retained lexicographic public S3 inventory for each official split; no preregistration claim.",
+  "license": "Argoverse 2 data: CC BY-NC-SA 4.0; code: MIT",
+  "terms_url": "https://www.argoverse.org/about.html#terms-of-use",
+  "attribution": "Argo AI; Wilson et al., Argoverse 2, NeurIPS Datasets and Benchmarks 2021.",
+  "radii": {
+    "vehicle": 2.0,
+    "bus": 3.0,
+    "pedestrian": 0.4,
+    "motorcyclist": 0.7,
+    "cyclist": 0.7,
+    "static": 0.5,
+    "background": 0.5,
+    "construction": 0.5,
+    "riderless_bicycle": 0.7,
+    "unknown": 0.5
+  },
+  "margins_m": [
+    0,
+    0.5,
+    1
+  ],
+  "sampled_steps_s": [
+    0.1,
+    1.0
+  ],
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD",
+  "numpy": "1.26.4",
+  "pandas": "2.2.3",
+  "command": "python evaluation/scenarios.py",
+  "trials": 216,
+  "synthetic_stress_trials": 3,
+  "binary_sha256": "174de6d85f3e52b8dc813605b1945e9bdbd1ce837e2554e1eb9d82e2fca23bb3",
+  "source_hash_format": "sha256-lf-normalized-text",
+  "source_sha256": {
+    "evaluation\\scenarios.py": "e3c16104637938b4284826961c7de127b6029069acf77cb3e0c9f441083bdeb4",
+    "src\\scenario_eval.cpp": "b5324679db9288518d27f2908bf446a217ceaba85629592cdfc004f5b2099979",
+    "evaluation\\sources.json": "549b35cab571c728e450c229f4a8130e6fe3170e3d38e2246f22db4418cc2846",
+    "evaluation\\train-selection-listing.xml": "a7f35df7a40b75376734f38e57bb7afa5ba62bfe6b4ea54ae50aba2a397183e4",
+    "evaluation\\val-selection-listing.xml": "d942834c7e3b3edede13d45100712f223cedf03807ccceda3942a7eb5a44c7a0",
+    "include\\motion_guard\\geometry.hpp": "2ad0244fc29297b1a4dde043f5c7ec30626383fe061cd8f7e59bdd2407ba8fa2",
+    "include\\motion_guard\\world.hpp": "eb10c0c6ef6b4d85d6da2a831e39118b530981003c6e619b66c4f38b81c27ea6"
+  },
+  "artifact_sha256": {
+    "dense-stress.jsonl": "89567cd7841c4a5fd275e15ba6e27ac0092532d4dffd7cc37e1b5ca59b249d98",
+    "missed-contact-replays.jsonl": "8777d88f5e234d59aab0062f53ad2a2e6021aafc6d422c575e256e05aa53baae",
+    "summary.json": "98030c6757b8efa1cbf7fe591ae894345a9f593a4947bbeae6df5a6d61c4c7b1",
+    "trials.jsonl": "0130490b63cd21204d6efc4f2a368c4f4afe31af0302f5f9235b8b826b3debdf"
+  },
+  "limits": [
+    "Retrospective recorded paths with linear interpolation; not forecast or control evaluation.",
+    "Disc radii are assumed proxies, not ground-truth vehicle dimensions or collision labels.",
+    "Incomplete tracks excluded separately in each phase; no extrapolation or gap filling.",
+    "Official validation subset held separate; no learned preprocessing or model training.",
+    "Only six validation scenarios, lexicographically selected, not representative of the complete dataset.",
+    "Reported missed contacts are contacts under this model between recorded samples, not missed real collisions.",
+    "No safety certification, closed-loop simulation, uncertainty calibration, or deployment claims."
+  ]
+}
